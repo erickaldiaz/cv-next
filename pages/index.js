@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>My CV with Next.js {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
@@ -30,7 +30,7 @@ export default function Index({ allPosts }) {
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
-      </Layout>
+</Layout>
     </>
   )
 }
