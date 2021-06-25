@@ -1,10 +1,11 @@
 ---
-title: '  Presentación'
-excerpt: 'Mi nombre es Ericka Díaz y soy programadora front end. Me gusta trabajar con lenguajes como  html, sass, taiwindcss, javascript y react.'
+title: 'Sobre mí'
+excerpt: 'Mi nombre es Ericka Díaz y soy programadora front end. Vivo en Buenos Aires, Argentina. Me gusta trabajar con lenguajes como  html, sass, taiwindcss, javascript y mi objetivo es profundizar mis conocimientos. Estoy aprendiendo React. Me gustaría crear aplicaciones que creen impacto social. 
+En mis tiempos libres me gusta correr, comer y tratar de hacer feliz a Panchito, mi perro.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2020-06-25T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: ED
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
