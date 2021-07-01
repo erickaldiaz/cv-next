@@ -1,5 +1,5 @@
 ---
-title: 'Mobile firts'
+title: 'Mobile first'
 excerpt: 'En este proyecto use html, css, variables de css, media queries y también aprendí a usar figma. Quedan bugs por corregir.'
 coverImage: '/assets/blog/hello-world/cover-batata.png'
 date: '2020-03-16T05:35:07.322Z'
@@ -9,4 +9,4 @@ author:
 ogImage:
   url: '/assets/blog/hello-world/cover-batata.png'
 ---
-
+Link del proyecto <a href="www.erickaldiaz.github.io/mobile-firts/" target="_blank">Mobile First</a>

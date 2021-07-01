@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>My CV with Next.js {CMS_NAME}</title>
+          <title>Portfolio</title>
         </Head>
         <Container>
           <Intro />
