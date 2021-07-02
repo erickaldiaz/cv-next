@@ -1,6 +1,6 @@
 ---
 title: 'Mi primera página estática'
-excerpt: 'Este fue mi primer proyecto donde aprendi html y css. Aprendí a usar clases, ID, botones.'
+excerpt: ''
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -9,3 +9,4 @@ author:
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
+Este proyecto se realizó para aprender html y css. Se uso los tags correspondientes, clases, ID, botones. Lik del proyecto: **[VQ](https://erickaldiaz.github.io/VQ/)**
