@@ -9,4 +9,4 @@ author:
 ogImage:
   url: '/assets/blog/hello-world/cover-batata.png'
 ---
-En este proyecto use html, css, variables de css, media queries y también aprendí a usar figma. Quedan bugs por corregir. Link del proyecto: **[Mobile firts](www.erickaldiaz.github.io/mobile-firts/)**
+En este proyecto use html, css, variables de css, media queries y también aprendí a usar figma. Quedan bugs por corregir. Link del proyecto: **[Mobile firts](https://erickaldiaz.github.io/mobile-firts/)**
