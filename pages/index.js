@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Portfolio</title>
+          <title>Portfolio Ericka Díaz</title>
         </Head>
         <Container>
           <Intro />
